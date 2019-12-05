@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T15:18:51.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="F2Bz3xHtpKRHqgPF7bzW" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T15:28:14.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="alZV248oyL9dqE4fxnwZ" version="12.3.7" type="github" pages="1">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2210" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -105,110 +105,147 @@
           <mxGeometry x="250" y="325" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="RdGBtFwpb-ngHzn6X-1z-36" value="&lt;h1&gt;大问题&lt;/h1&gt;&lt;div&gt;这个生成的token如何返回给用户？&lt;/div&gt;&lt;div&gt;暴露到url里面？？？？&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="205" y="540" width="190" height="120" as="geometry"/>
+          <mxGeometry x="255" y="455" width="190" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="RdGBtFwpb-ngHzn6X-1z-37" value="方案2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="365" y="30" width="100" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="hU68iRJ8JovTnebR8NAB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-28">
+        <mxCell id="hU68iRJ8JovTnebR8NAB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-28" target="hU68iRJ8JovTnebR8NAB-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-515" y="290" as="targetPoint"/>
+            <mxPoint x="-692.5" y="290" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-28" value="任意页面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-575" y="120" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-752.5" y="120" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-50" value="方案1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-565" y="40" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-515" y="487.5" as="targetPoint"/>
+            <mxPoint x="-692.5" y="487.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-297.5" y="355" as="targetPoint"/>
+            <mxPoint x="-475" y="355" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-52" value="页面不需要验证并且不是跳向login" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-652.5" y="302.5" width="275" height="105" as="geometry"/>
+          <mxGeometry x="-830" y="302.5" width="275" height="105" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-56" value="同时成立" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="445" width="60" height="20" as="geometry"/>
+          <mxGeometry x="-687.5" y="445" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="hU68iRJ8JovTnebR8NAB-57" value="next" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="325" width="120" height="60" as="geometry"/>
+        <mxCell id="hU68iRJ8JovTnebR8NAB-57" value="next--&amp;gt;login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-467.5" y="325" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-60" value="不成立" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="345" width="50" height="20" as="geometry"/>
+          <mxGeometry x="-547.5" y="345" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-52" target="hU68iRJ8JovTnebR8NAB-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-377.5" y="355" as="sourcePoint"/>
-            <mxPoint x="-297.5" y="355" as="targetPoint"/>
+            <mxPoint x="-555" y="355" as="sourcePoint"/>
+            <mxPoint x="-475" y="355" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hU68iRJ8JovTnebR8NAB-64" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-62">
+        <mxCell id="hU68iRJ8JovTnebR8NAB-64" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-62" target="hU68iRJ8JovTnebR8NAB-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-515" y="630" as="targetPoint"/>
+            <mxPoint x="-692.5" y="630" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hU68iRJ8JovTnebR8NAB-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-62">
+        <mxCell id="hU68iRJ8JovTnebR8NAB-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-62" target="hU68iRJ8JovTnebR8NAB-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-340" y="520" as="targetPoint"/>
+            <mxPoint x="-517.5" y="520" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-569.5" y="520"/>
+              <mxPoint x="-569.5" y="524"/>
+              <mxPoint x="-507.5" y="524"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-62" value="vuex和localstorage都没有值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-575" y="490" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-752.5" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hU68iRJ8JovTnebR8NAB-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.608;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-65" target="hU68iRJ8JovTnebR8NAB-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-217.5" y="490" as="sourcePoint"/>
+            <mxPoint x="-217.5" y="410" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-210" y="305"/>
+              <mxPoint x="-395" y="305"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-65" value="微信授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="490" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-270" y="490" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-67" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="514" width="30" height="20" as="geometry"/>
+          <mxGeometry x="-602.5" y="514" width="30" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-69" target="hU68iRJ8JovTnebR8NAB-65">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-277.5" y="520" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="hU68iRJ8JovTnebR8NAB-72" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-69" target="hU68iRJ8JovTnebR8NAB-57">
+        <mxCell id="hU68iRJ8JovTnebR8NAB-72" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-69" target="hU68iRJ8JovTnebR8NAB-57">
           <mxGeometry x="0.28" y="-114" relative="1" as="geometry">
+            <mxPoint x="-447.5" y="390" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-437.5" y="420"/>
+              <mxPoint x="-437.5" y="420"/>
+            </Array>
             <mxPoint x="-44" y="90" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-69" value="是否跳转到login" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="475" width="130" height="90" as="geometry"/>
+          <mxGeometry x="-507.5" y="475" width="130" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-71" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="430" width="30" height="20" as="geometry"/>
+          <mxGeometry x="-457.5" y="430" width="30" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-75" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="hU68iRJ8JovTnebR8NAB-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-470" y="673" as="sourcePoint"/>
-            <mxPoint x="-390" y="673" as="targetPoint"/>
+            <mxPoint x="-647.5" y="673" as="sourcePoint"/>
+            <mxPoint x="-567.5" y="673" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hU68iRJ8JovTnebR8NAB-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-76">
+        <mxCell id="hU68iRJ8JovTnebR8NAB-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-515" y="793" as="targetPoint"/>
+            <mxPoint x="-692.5" y="793" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-76" value="&lt;span style=&quot;white-space: normal&quot;&gt;vueX是否有值&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-555" y="633" width="80" height="80" as="geometry"/>
+          <mxGeometry x="-765" y="633" width="145" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="hU68iRJ8JovTnebR8NAB-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-77" target="hU68iRJ8JovTnebR8NAB-57">
+        <mxCell id="hU68iRJ8JovTnebR8NAB-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-77" target="hU68iRJ8JovTnebR8NAB-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-150" y="690"/>
-              <mxPoint x="-150" y="355"/>
+              <mxPoint x="-327.5" y="673"/>
+              <mxPoint x="-327.5" y="355"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-77" value="异步获取值给到vuex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="660" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-522.5" y="643" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hU68iRJ8JovTnebR8NAB-82" value="next" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="796" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-757.5" y="796" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hU68iRJ8JovTnebR8NAB-85" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-707.5" y="744.5" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="hU68iRJ8JovTnebR8NAB-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hU68iRJ8JovTnebR8NAB-76" target="hU68iRJ8JovTnebR8NAB-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-692.5" y="713" as="sourcePoint"/>
+            <mxPoint x="-692.5" y="793" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hU68iRJ8JovTnebR8NAB-89" value="&lt;h1&gt;这里有两个方案&lt;/h1&gt;&lt;div&gt;微信跳到后台地址&lt;/div&gt;&lt;div&gt;由后台记录用户生成token,跳转到vue前台，然后前台再来记录&lt;/div&gt;&lt;div&gt;再或者记录用户后生成一个code,把code带上跳到前台，然后前台异步通过code获取生成的token避免token暴露到url上&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;微信跳到前台地址&lt;/div&gt;&lt;div&gt;前台获取到微信的code，再异步到后台拿去微信服务器获取用户数据，再生成token再返回给前台&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="465" width="190" height="235" as="geometry"/>
+        </mxCell>
+        <mxCell id="hU68iRJ8JovTnebR8NAB-90" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-213" y="524" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
