@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-08T06:46:09.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="7BlK2SCAhp5PycouMLUB" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-08T06:48:04.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Wd9hwMXJu5ugWXiWqf4E" version="12.3.8" type="github" pages="1">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2450" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
           <mxGeometry x="1280" y="916.5" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="KkP7iXDBzzUwFsvucT8D-23" value="不存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="335" width="50" height="20" as="geometry"/>
+          <mxGeometry x="1147.5" y="335" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="KkP7iXDBzzUwFsvucT8D-25" value="方案3" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1295" y="40" width="100" height="40" as="geometry"/>
@@ -367,9 +367,9 @@
           <mxGeometry x="1208.5" y="606" width="273" height="107" as="geometry"/>
         </mxCell>
         <mxCell id="KkP7iXDBzzUwFsvucT8D-33" value="不存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="663" width="50" height="20" as="geometry"/>
+          <mxGeometry x="1060" y="633" width="50" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="KkP7iXDBzzUwFsvucT8D-36" value="去换取 jwt token并设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KkP7iXDBzzUwFsvucT8D-36" value="去换取 jwt token并设置localstorage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1197.5" y="785" width="295" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="KkP7iXDBzzUwFsvucT8D-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KkP7iXDBzzUwFsvucT8D-40" target="KkP7iXDBzzUwFsvucT8D-41">
@@ -407,7 +407,7 @@
           <mxGeometry x="1140" y="1295" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="KkP7iXDBzzUwFsvucT8D-55" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1371" y="1436" width="40" height="20" as="geometry"/>
+          <mxGeometry x="1345" y="1430" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="KkP7iXDBzzUwFsvucT8D-58" value="跳去logout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1295" width="120" height="60" as="geometry"/>
@@ -428,6 +428,9 @@
         </mxCell>
         <mxCell id="KkP7iXDBzzUwFsvucT8D-61" value="正常业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1274.5" y="1640" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="KkP7iXDBzzUwFsvucT8D-63" value="存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1354.5" y="455" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
