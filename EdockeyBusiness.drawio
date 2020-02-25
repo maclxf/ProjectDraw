@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-25T05:43:00.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="55hVEjkIh6kFurmSoFt3" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T07:53:57.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="ei6JNASzBa7p0-xF_usv" version="12.7.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1943" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
           <mxGeometry x="9" y="1600" width="1101" height="370" as="geometry" />
         </mxCell>
         <mxCell id="XLPa7UNQsNW_ClfHcTxk-1763" value="BC" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=75;align=right;" vertex="1" parent="1">
-          <mxGeometry x="9" y="1990" width="1101" height="360" as="geometry" />
+          <mxGeometry x="9" y="1990" width="1101" height="380" as="geometry" />
         </mxCell>
         <mxCell id="XLPa7UNQsNW_ClfHcTxk-1764" value="&lt;div&gt;&lt;span style=&quot;font-size: 75px&quot;&gt;CC&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;align=right;" vertex="1" parent="1">
           <mxGeometry x="9" y="2390" width="1101" height="380" as="geometry" />
@@ -165,11 +165,11 @@
         <mxCell id="XLPa7UNQsNW_ClfHcTxk-1774" value="汉邦长兴EMS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="203" y="2018" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1775" value="宏远北京-1&lt;br&gt;清关：北京宏远-1&lt;br&gt;派送：清关公司提供派送面单接口&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. 单号：无需获取单号&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. 开单：api开单&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. 面单：使用返回的面单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="368.5" y="2138" width="230" height="100" as="geometry" />
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1775" value="宏远北京-1&lt;br&gt;清关：北京宏远-1&lt;br&gt;派送：清关公司提供派送面单接口&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. 单号：无需获取单号&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. 开单：api开单&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. 面单：使用返回的面单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="524.5" y="2258" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1776" value="宏远北京-2(集成中)&lt;br&gt;清关：北京宏远-2&lt;br&gt;派送：清关公司提供派送面单接口&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//1. 单号：无需获取单号&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//2. 开单：api开单&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//3. 面单：使用返回的面单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="368.5" y="2018" width="240" height="100" as="geometry" />
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1776" value="宏远北京-2(集成中) 就是下面的宏远北京1 接口变化&lt;br&gt;清关：北京宏远-2&lt;br&gt;派送：清关公司提供派送面单接口&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//1. 单号：无需获取单号&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//2. 开单：api开单&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//3. 面单：使用返回的面单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="2018" width="411.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XLPa7UNQsNW_ClfHcTxk-1778" value="翔通-申通&lt;br&gt;清关：翔通&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. 导出清关数据&lt;br&gt;派送：申通（我们分配的派送资源）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. api 获取单号&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. api 开单&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. 面单自行构造&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4. 针对发运国家不同可以提供不同的单号" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=6;perimeterSpacing=2;fontColor=#7EA6E0;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="50" y="2400" width="290" height="180" as="geometry" />
@@ -185,6 +185,108 @@
         </mxCell>
         <mxCell id="XLPa7UNQsNW_ClfHcTxk-1782" value="中外运青岛CC&lt;br&gt;清关：中外运&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. 导出清关数据&lt;br&gt;派送：清关公司提供派送面单接口&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. 手动导入单号&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. 无api开单，根据数据&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. 面单自行构造" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="53.5" y="2590" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1784" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;align=right;" vertex="1" parent="1">
+          <mxGeometry x="1203" y="1590" width="1101" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1785" value="解决开单流程混乱得问题&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1619" y="1490" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1789" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1787" target="XLPa7UNQsNW_ClfHcTxk-1790">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1754" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1787" value="三方传入订单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1694" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1794" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1790" target="XLPa7UNQsNW_ClfHcTxk-1795">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1921" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1798" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1790" target="XLPa7UNQsNW_ClfHcTxk-1799">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1754" y="1980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1790" value="是否通过基础验证" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1667" y="1820" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1795" value="返回报错信息&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1796" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1804" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1799" target="XLPa7UNQsNW_ClfHcTxk-1803">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1799" value="获取用户开单资源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1694" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1807" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1803" target="XLPa7UNQsNW_ClfHcTxk-1806">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1803" value="设置处理类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1694" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1809" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1806" target="XLPa7UNQsNW_ClfHcTxk-1810">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1754" y="2420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1806" value="开单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1694" y="2270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1800" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="1930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1801" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 基础数据是否完整（parcel ,sender...）&lt;/p&gt;&lt;p&gt;2. 三方是否存在&lt;/p&gt;&lt;p&gt;3. 是否有对应资源获取权限（另外搭建）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1800" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1805" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 派送处理类：处理开单等信息&lt;/p&gt;&lt;p&gt;2. 清关处理类，用于存储附属清关信息（清关公司特有的订单属性，商品属性）或者获取 备案商品信息，当然万国邮联不存在该信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2095" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1812" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1810" target="XLPa7UNQsNW_ClfHcTxk-1795">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1874" y="2440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1816" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1810" target="XLPa7UNQsNW_ClfHcTxk-1818">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1754" y="2530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1810" value="开单结果" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1714" y="2400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1814" value="失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="2410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1817" value="成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="2500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1820" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1818" target="XLPa7UNQsNW_ClfHcTxk-1819">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1818" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;清关处理类-&amp;gt;结果&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1692" y="2540" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1819" value="返回结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1694" y="2680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1821" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;span&gt;记录开单结果&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;记录开单订单以及附加信息&lt;/span&gt;&lt;/div&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2510" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1822" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="1580" width="1101" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1823" value="清关类" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="1490" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLPa7UNQsNW_ClfHcTxk-1824" value="&lt;h1&gt;已知需要功能&lt;/h1&gt;&lt;p&gt;1. 设定附属表&lt;/p&gt;&lt;p&gt;2. 获取附属表信息&lt;/p&gt;&lt;p&gt;3. 增加附属表信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="1630" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
