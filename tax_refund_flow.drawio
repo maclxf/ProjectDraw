@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T07:39:20.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OHEM43SKx_1IS7Y38g90" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-20T07:46:26.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="eoQzpbadGY4Sv3tfLceI" version="13.1.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -15,31 +15,31 @@
         <mxCell id="40" value="end" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="254.5" y="1910" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--55" value="100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="271" y="80" width="40" height="20" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--55" value="100&amp;nbsp;&lt;span&gt;购物发票已上传，等待客服审核&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="91.5" y="80" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--56" target="LrSTDgnJc3ZIewaenou--60">
+        <mxCell id="LrSTDgnJc3ZIewaenou--58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--56" target="LrSTDgnJc3ZIewaenou--60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--56" value="等待初核" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--56" value="等待初核" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="130" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--60" target="LrSTDgnJc3ZIewaenou--63">
+        <mxCell id="LrSTDgnJc3ZIewaenou--62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--60" target="LrSTDgnJc3ZIewaenou--63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459.5" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--60" target="LrSTDgnJc3ZIewaenou--70">
+        <mxCell id="LrSTDgnJc3ZIewaenou--69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--60" target="LrSTDgnJc3ZIewaenou--70" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314.5" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--60" value="初审结果" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--60" value="初审结果" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="249.5" y="290" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.905;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--63" target="LrSTDgnJc3ZIewaenou--56">
+        <mxCell id="LrSTDgnJc3ZIewaenou--65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.905;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--63" target="LrSTDgnJc3ZIewaenou--56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="529.5" y="220" as="targetPoint" />
             <Array as="points">
@@ -47,132 +47,142 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--63" value="重新上传数据" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--63" value="重新上传数据" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="300" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--66" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--66" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="389" y="350" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--70" target="LrSTDgnJc3ZIewaenou--74">
+        <mxCell id="LrSTDgnJc3ZIewaenou--75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LrSTDgnJc3ZIewaenou--70" target="LrSTDgnJc3ZIewaenou--74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--70" value="提交回国订单" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--70" value="提交回国订单" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="480" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--74" target="LrSTDgnJc3ZIewaenou--79">
+        <mxCell id="LrSTDgnJc3ZIewaenou--77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--74" target="LrSTDgnJc3ZIewaenou--79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314.5" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--74" value="自动任务1传输数据给到退税公司" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--74" value="自动任务1传输数据给到退税公司" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="610" width="224" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--71" value="130" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="394" y="310" width="40" height="20" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--71" value="130&amp;nbsp;购物发票审核不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="379.5" y="310" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--72" value="150" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="261.5" y="414" width="40" height="20" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--72" value="150&amp;nbsp;购物发票审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="171.5" y="414" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--73" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--73" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="414" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--78" value="155" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="261.5" y="730" width="40" height="20" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--78" value="155&amp;nbsp;等待退税公司审核购物发票附件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="87.51" y="720" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--79" target="LrSTDgnJc3ZIewaenou--86">
+        <mxCell id="LrSTDgnJc3ZIewaenou--81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--79" target="LrSTDgnJc3ZIewaenou--86" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459.5" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--79" target="LrSTDgnJc3ZIewaenou--94">
+        <mxCell id="LrSTDgnJc3ZIewaenou--83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LrSTDgnJc3ZIewaenou--79" target="LrSTDgnJc3ZIewaenou--94" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314.5" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--79" value="退税公司审核1" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--79" value="退税公司审核1" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="249.5" y="790" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--84" value="160" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="389" y="800" width="40" height="20" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--84" value="160&amp;nbsp;购物发票退税公司审核不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="331.5" y="775" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--85" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--85" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="850" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.926;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--86" target="LrSTDgnJc3ZIewaenou--74">
+        <mxCell id="LrSTDgnJc3ZIewaenou--91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.926;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="LrSTDgnJc3ZIewaenou--74" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="568" y="710" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="650" />
             </Array>
+            <mxPoint x="640" y="775" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--86" value="客服根据提示收集信息&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 重新上传&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. 删除退税公司的包裹信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 插入一条待推送&lt;/span&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="460" y="775" width="334" height="130" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--86" value="客服根据提示收集信息&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 重新上传&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. 删除退税公司的包裹信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 插入一条待推送&lt;/span&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="470" y="775" width="334" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--92" value="165" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="257.51" y="920" width="40" height="20" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--92" value="165&amp;nbsp;购物发票退税公司审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="121.49999999999999" y="920" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--93" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--93" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="331.51" y="920" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--94" target="LrSTDgnJc3ZIewaenou--95">
+        <mxCell id="LrSTDgnJc3ZIewaenou--96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LrSTDgnJc3ZIewaenou--94" target="LrSTDgnJc3ZIewaenou--95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--94" value="接受到退税发票等相关信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--94" value="接受到退税发票等相关信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222.88" y="980" width="183.25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--95" target="LrSTDgnJc3ZIewaenou--97">
+        <mxCell id="LrSTDgnJc3ZIewaenou--98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LrSTDgnJc3ZIewaenou--95" target="LrSTDgnJc3ZIewaenou--97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--95" value="订单流程&lt;br&gt;渠道不同上传不同的面单等附件" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--95" value="订单流程&lt;br&gt;渠道不同上传不同的面单等附件" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="215.95" y="1170" width="197.12" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--97" target="LrSTDgnJc3ZIewaenou--99">
+        <mxCell id="LrSTDgnJc3ZIewaenou--100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LrSTDgnJc3ZIewaenou--97" target="LrSTDgnJc3ZIewaenou--99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--97" value="自动任务2推送给退税公司" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--97" value="自动任务2推送给退税公司" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222.88" y="1360" width="183.25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--99" target="LrSTDgnJc3ZIewaenou--105">
+        <mxCell id="LrSTDgnJc3ZIewaenou--102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LrSTDgnJc3ZIewaenou--99" target="LrSTDgnJc3ZIewaenou--105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459.5" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--99" target="LrSTDgnJc3ZIewaenou--106">
+        <mxCell id="LrSTDgnJc3ZIewaenou--104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LrSTDgnJc3ZIewaenou--99" target="LrSTDgnJc3ZIewaenou--106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314.5" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--99" value="退税公司审核2" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--99" value="退税公司审核2" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="249.5" y="1520" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--105" target="LrSTDgnJc3ZIewaenou--97">
+        <mxCell id="LrSTDgnJc3ZIewaenou--112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LrSTDgnJc3ZIewaenou--105" target="LrSTDgnJc3ZIewaenou--97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="1415" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--105" value="&lt;span&gt;客服根据提示收集信息&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 重新上传&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;2. 删除退税公司的包裹信息（同一个删除接口是否可行）&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;3. 插入一条待推送&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--105" value="&lt;span&gt;客服根据提示收集信息&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 重新上传&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;2. 删除退税公司的包裹信息（同一个删除接口是否可行）&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;3. 插入一条待推送&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="487" y="1487.5" width="383" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--106" target="40">
+        <mxCell id="LrSTDgnJc3ZIewaenou--113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--106" target="40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--106" value="客服收到退税excel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--106" value="客服收到退税excel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222.88" y="1720" width="183.25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--108" value="170" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="410.13" y="1535" width="40" height="20" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--108" value="180 面单信息退税公司审核不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="339.5" y="1520" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--109" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--109" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="406.13" y="1585" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--110" value="175" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="1650" width="40" height="20" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--110" value="185&amp;nbsp;面单信息退税公司审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="117.51" y="1650" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--111" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--111" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="331.5" y="1650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-42" value="200 开始退税" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="114.5" y="1840" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-44" value="&lt;span style=&quot;text-align: left&quot;&gt;300 退税到账&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="114.5" y="1870" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-45" value="170&amp;nbsp;等待退税公司审核面单附件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="79.5" y="1480" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
