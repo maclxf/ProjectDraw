@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-20T09:11:43.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="rfGTEkv3DuE4W6I3jfY8" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-20T09:13:07.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="HDnvmmUKmeX1kpcPK1Hg" version="13.1.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2207" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -184,8 +184,8 @@
         <mxCell id="LrSTDgnJc3ZIewaenou--109" value="不通过&lt;br&gt;&lt;span style=&quot;font-size: 11px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;改退税记录状态为180&lt;/span&gt;&lt;br style=&quot;font-size: 11px ; text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;删除插入历史记录&lt;/span&gt;&lt;br style=&quot;font-size: 11px ; text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;记录失败历史&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="424" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--110" value="185&amp;nbsp;面单信息退税公司审核通过---或者名字直接改为 200 面单信息退税公司审核通过，开始退税" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-222.49" y="1652.5" width="520" height="40.5" as="geometry" />
+        <mxCell id="LrSTDgnJc3ZIewaenou--110" value="185&amp;nbsp;面单信息退税公司审核通过---或者名字直接改为 200 面单信息退税公司审核通过，开始退税（建议）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-247.49" y="1662.5" width="570" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--111" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="331.5" y="1650" width="40" height="20" as="geometry" />
@@ -298,9 +298,6 @@
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-79" value="&lt;h1&gt;兼容处理&lt;/h1&gt;&lt;div&gt;审核1 是在 原 invoice 接口上新增了status 和 error字段&lt;/div&gt;&lt;div&gt;为了在对方调整好前也可以正常处理，isset($post[&#39;status&#39;]) &amp;amp;&amp;amp; $post[&#39;status&#39;] == 0才处理 审核失败&lt;/div&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="12.5" y="810" width="235" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="7mLNIrUK4WttmI5ZQ052-80" value="&lt;h1&gt;&lt;span&gt;兼容处理&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;能到此处的是185 或者 200&lt;/div&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1720" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-81" value="end" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="2080" width="120" height="30" as="geometry" />
