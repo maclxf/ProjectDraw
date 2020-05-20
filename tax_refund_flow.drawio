@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-20T10:46:19.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="adI2nu0K400AjhPiqAdx" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-20T10:47:40.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="XNwxC8OaqCI4TrRDKVnn" version="13.1.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2390" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
         <mxCell id="LrSTDgnJc3ZIewaenou--112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LrSTDgnJc3ZIewaenou--105" target="LrSTDgnJc3ZIewaenou--97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="1433" />
+              <mxPoint x="800" y="1439" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -176,6 +176,10 @@
         <mxCell id="LrSTDgnJc3ZIewaenou--113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LrSTDgnJc3ZIewaenou--106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="1910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="315" y="1850" />
+              <mxPoint x="315" y="1850" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--106" value="自动任务开始退税" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -194,10 +198,10 @@
           <mxGeometry x="331.5" y="1650" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-42" value="200 开始退税" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="162.51" y="1840" width="90" height="20" as="geometry" />
+          <mxGeometry x="211.5" y="1840" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-44" value="&lt;span style=&quot;text-align: left&quot;&gt;300 退税到账&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2000" width="90" height="20" as="geometry" />
+          <mxGeometry x="211.5" y="2000" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-45" value="170&amp;nbsp;等待退税公司审核面单附件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="95" y="1490" width="180" height="20" as="geometry" />
@@ -242,7 +246,7 @@
             <mxPoint x="269.74749999999995" y="795" as="sourcePoint" />
             <mxPoint x="243" y="530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="275" y="795" />
+              <mxPoint x="274" y="795" />
               <mxPoint y="795" />
               <mxPoint y="530" />
             </Array>
@@ -321,10 +325,10 @@
           <mxGeometry x="274.5" y="600" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-96" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;set_tax_refund_start&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 条件改&lt;span&gt;= 185 and (150， 已出库，一个时间)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. 去除add attahchment_history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-72.49" y="1730" width="235" height="130" as="geometry" />
+          <mxGeometry x="-19.999999999999993" y="1700" width="235" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-97" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;150 或者 165 且 三个附件都传完了&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-72.49" y="1270" width="235" height="130" as="geometry" />
+          <mxGeometry x="12.5" y="1320" width="222.49" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7mLNIrUK4WttmI5ZQ052-100" target="LrSTDgnJc3ZIewaenou--97">
           <mxGeometry relative="1" as="geometry" />
