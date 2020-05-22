@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T03:07:50.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="swM-bzLETGtCXy0FM2dU" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T05:42:16.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="MZaqfsb1O9opO_jLKvaV" version="13.1.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2207" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -316,8 +316,8 @@
         <mxCell id="7mLNIrUK4WttmI5ZQ052-96" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;set_tax_refund_start&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 条件改= 185 and (150， 已出库&lt;strike&gt;，上线时间前&lt;/strike&gt;(因为还存在整合发票的不需要做审核))&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. 去除add attahchment_history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-937.51" y="1863" width="235" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7mLNIrUK4WttmI5ZQ052-97" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;要推送的为&amp;nbsp;&lt;span&gt;比邮，法邮这种&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;where = (status_code = 150 且 没加入过的任务的) || status_code = 165&lt;div&gt;&lt;/div&gt;&lt;br&gt;3. 对获取的数据，按照条件过滤除数据（条件为 要上传附件的，是比邮的还要多个附件验证）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-905.01" y="1300" width="222.49" height="190" as="geometry" />
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-97" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;auto_task add_tax_refund_attachment_push_histories&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;要推送的为&amp;nbsp;&lt;span&gt;比邮，法邮这种&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;where = (status_code = 150 且 没加入过的任务的) || status_code = 165&lt;div&gt;&lt;/div&gt;&lt;br&gt;3. 对获取的数据，按照条件过滤除数据（条件为 要上传附件的，是比邮的还要多个附件验证）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-950" y="1280" width="222.49" height="190" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7mLNIrUK4WttmI5ZQ052-100" target="LrSTDgnJc3ZIewaenou--97" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -329,7 +329,7 @@
           <mxGeometry x="-772.51" y="930" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JJt_7ZSJgDdLku0Frvaq-8" value="&lt;h1&gt;问题&lt;/h1&gt;&lt;div&gt;会不会有漏掉的&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1127.5" y="1370" width="222.49" height="80" as="geometry" />
+          <mxGeometry x="-1147.49" y="1450" width="222.49" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JJt_7ZSJgDdLku0Frvaq-9" value="&lt;h1&gt;问题&lt;/h1&gt;&lt;div&gt;会不会有漏掉的&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="1973" width="222.49" height="80" as="geometry" />
