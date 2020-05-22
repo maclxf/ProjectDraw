@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T06:17:15.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="dt7dPnW5CVoEPEPql7-5" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T07:21:03.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="4r8-liKLV68yJrEUzRDE" version="13.1.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2207" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="LrSTDgnJc3ZIewaenou--73" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-597.51" y="404" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--78" value="155 退税信息已收集，等待退税公司审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--78" value="155 退税信息已收集，等待退税公司审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-717.97" y="700" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.044;entryY=0.726;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--79" target="LrSTDgnJc3ZIewaenou--86" edge="1">
@@ -99,7 +99,7 @@
         <mxCell id="LrSTDgnJc3ZIewaenou--79" value="退税公司审核1" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="-668.01" y="830" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--84" value="160&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;退税信息&lt;/span&gt;审核&lt;br&gt;未通过" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--84" value="160&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;退税信息&lt;/span&gt;审核&lt;br&gt;未通过" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-501.14" y="845" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--85" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
             <mxPoint x="-277.51" y="765" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--86" value="客服根据提示收集信息&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 重新上传&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. 修改状态&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 插入一条待推送&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--86" value="客服根据提示收集信息&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 重新上传&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. 修改状态&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 插入一条待推送&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-297.51" y="770" width="257.51" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--93" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--106" value="自动任务开始退税" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-694.63" y="1903" width="183.25" height="90" as="geometry" />
+          <mxGeometry x="-694.64" y="1883" width="183.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--108" value="180 面单等附件审核不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-508.51" y="1530" width="160" height="20" as="geometry" />
@@ -313,10 +313,10 @@
         <mxCell id="7mLNIrUK4WttmI5ZQ052-93" value="订单退回" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-643.01" y="590" width="80" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="7mLNIrUK4WttmI5ZQ052-96" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;set_tax_refund_start&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 条件改= 185 and (150， 已出库&lt;strike&gt;，上线时间前&lt;/strike&gt;(因为还存在整合发票的不需要做审核))&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. 去除add attahchment_history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-937.51" y="1863" width="235" height="130" as="geometry" />
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-96" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;set_tax_refund_start&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;处理方式&lt;/div&gt;&lt;div&gt;1. 原始获取退税记录得方法不变，用以兼容老数据&lt;/div&gt;&lt;div&gt;2. status_code = 185（当是退税公司审核面单的记录可以开始退税，说明面单等附件已有且可以了的） or (status_code = 165 and 已出库 and 做整合发票的渠道)&lt;/div&gt;&lt;div&gt;3. 汇总上面的两组数据&lt;/div&gt;&lt;div&gt;&lt;strike&gt;1. 条件改= 185 || (150， 已出库，上线时间前(因为还存在整合发票的不需要做审核)) || (165 ,已出库)&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. 去除add attahchment_history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-937.51" y="1863" width="235" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="7mLNIrUK4WttmI5ZQ052-97" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;auto_task add_tax_refund_attachment_push_histories&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;要推送的为&amp;nbsp;&lt;span&gt;比邮，法邮这种&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;where = (status_code = 150 且 没加入过的任务的) || status_code = 165&lt;div&gt;&lt;/div&gt;&lt;br&gt;3. 对获取的数据，按照条件过滤除数据（条件为 要上传附件的，是比邮的还要多个附件验证）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-97" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;auto_task add_tax_refund_attachment_push_histories&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;要推送的为&amp;nbsp;&lt;span&gt;比邮，法邮这种&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;where = (status_code = 150 且 没加入过的任务的) || status_code = 165&lt;div&gt;&lt;/div&gt;&lt;br&gt;3. 对获取的数据，按照条件过滤除数据（条件为 要上传附件的，是比邮的还要多个附件验证）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-950" y="1280" width="222.49" height="190" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7mLNIrUK4WttmI5ZQ052-100" target="LrSTDgnJc3ZIewaenou--97" edge="1">
@@ -325,11 +325,11 @@
         <mxCell id="7mLNIrUK4WttmI5ZQ052-100" value="三个附件上传完成&lt;br&gt;出发插入自动任务" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-673.24" y="1310" width="140.46" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--92" value="165 退税信息审核通过，等待上传面单" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--92" value="165 退税信息审核通过，等待上传面单" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-772.51" y="930" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JJt_7ZSJgDdLku0Frvaq-8" value="&lt;h1&gt;问题&lt;/h1&gt;&lt;div&gt;会不会有漏掉的&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1147.49" y="1450" width="222.49" height="80" as="geometry" />
+          <mxGeometry x="-1160" y="1470" width="222.49" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JJt_7ZSJgDdLku0Frvaq-9" value="&lt;h1&gt;问题&lt;/h1&gt;&lt;div&gt;会不会有漏掉的&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="1973" width="222.49" height="80" as="geometry" />
@@ -607,7 +607,7 @@
         <mxCell id="gNSOX75_fMVnCo2lNRig-7" value="&lt;h1&gt;问题&lt;/h1&gt;&lt;div&gt;generate_delivery_invoice&lt;br&gt;&lt;/div&gt;&lt;div&gt;生成投递发票的功能条件目前为&lt;/div&gt;&lt;div&gt;&lt;div&gt;审核通过的退税&lt;/div&gt;&lt;div&gt;已经设置好了跟踪号&lt;/div&gt;&lt;div&gt;还未设置投递发票的退税&lt;/div&gt;&lt;/div&gt;&lt;div&gt;----&lt;/div&gt;&lt;div&gt;也需要调整一下&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-458.51" y="1045" width="235" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gNSOX75_fMVnCo2lNRig-8" value="&lt;h1&gt;调整&lt;/h1&gt;auto_task&amp;nbsp;&amp;nbsp;&lt;div&gt;generate_delivery_invoice&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;status_code in 150，165&lt;/div&gt;&lt;div&gt;trackng_no != &#39;&#39;&lt;/div&gt;&lt;div&gt;delivery_invoice_file_name != &#39;&#39;&lt;br&gt;&lt;/div&gt;&lt;div&gt;channel_Id in ()&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="gNSOX75_fMVnCo2lNRig-8" value="&lt;h1&gt;调整&lt;/h1&gt;auto_task&amp;nbsp;&amp;nbsp;&lt;div&gt;generate_delivery_invoice&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;status_code in 150，165&lt;/div&gt;&lt;div&gt;trackng_no != &#39;&#39;&lt;/div&gt;&lt;div&gt;delivery_invoice_file_name != &#39;&#39;&lt;br&gt;&lt;/div&gt;&lt;div&gt;channel_Id in ()&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-458.51" y="1241" width="235" height="160" as="geometry" />
         </mxCell>
       </root>
