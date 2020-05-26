@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T09:41:21.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="vTBABREAejcC-zxGoiM3" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-26T10:13:11.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="annLhX6qhS3ZuN1rQP8q" version="13.1.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2207" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3376" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,19 +317,19 @@
           <mxGeometry x="-937.51" y="1863" width="235" height="197" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-97" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;auto_task add_tax_refund_attachment_push_histories&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;要推送的为&amp;nbsp;&lt;span&gt;比邮，法邮这种&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;where = (status_code = 150 且 没加入过的任务的) || status_code = 165&lt;div&gt;&lt;/div&gt;&lt;br&gt;3. 对获取的数据，按照条件过滤除数据（条件为 要上传附件的，是比邮的还要多个附件验证）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="1280" width="222.49" height="190" as="geometry" />
+          <mxGeometry x="-950" y="1280" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7mLNIrUK4WttmI5ZQ052-100" target="LrSTDgnJc3ZIewaenou--97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mLNIrUK4WttmI5ZQ052-100" value="三个附件上传完成&lt;br&gt;出发插入自动任务" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-100" value="三个附件（部分是四个）上传完成&lt;br&gt;出发插入自动任务" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-673.24" y="1310" width="140.46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--92" value="165 退税信息审核通过，等待上传面单" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-772.51" y="930" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JJt_7ZSJgDdLku0Frvaq-8" value="&lt;h1&gt;问题&lt;/h1&gt;&lt;div&gt;会不会有漏掉的&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="1470" width="222.49" height="80" as="geometry" />
+          <mxGeometry x="-1180" y="1477.5" width="222.49" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JJt_7ZSJgDdLku0Frvaq-9" value="&lt;h1&gt;问题&lt;/h1&gt;&lt;div&gt;会不会有漏掉的&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="1973" width="222.49" height="80" as="geometry" />
