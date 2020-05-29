@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T02:43:20.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="CNCuGX2BMdunZZgStcfo" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-29T10:10:53.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Nxp3PNBAT3ovZC2Zgrcz" version="13.1.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3376" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -313,11 +313,11 @@
         <mxCell id="7mLNIrUK4WttmI5ZQ052-93" value="订单退回" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-643.01" y="590" width="80" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="7mLNIrUK4WttmI5ZQ052-96" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;set_tax_refund_start&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;处理方式&lt;/div&gt;&lt;div&gt;1. 原始获取退税记录得方法不变，用以兼容老数据&lt;/div&gt;&lt;div&gt;2. status_code = 185（当是退税公司审核面单的记录可以开始退税，说明面单等附件已有且可以了的） or (status_code = 165 and 已出库 and 做整合发票的渠道)&lt;/div&gt;&lt;div&gt;3. 汇总上面的两组数据&lt;/div&gt;&lt;div&gt;&lt;strike&gt;1. 条件改= 185 || (150， 已出库，上线时间前(因为还存在整合发票的不需要做审核)) || (165 ,已出库)&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. 去除add attahchment_history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-937.51" y="1863" width="235" height="197" as="geometry" />
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-96" value="&lt;h1&gt;旧调整&lt;/h1&gt;&lt;div&gt;set_tax_refund_start&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;处理方式&lt;/div&gt;&lt;div&gt;1. 原始获取退税记录得方法不变，用以兼容老数据&lt;/div&gt;&lt;div&gt;2. &lt;span style=&quot;background-color: rgb(255 , 0 , 0)&quot;&gt;status_code = 185（当是退税公司审核面单的记录可以开始退税，说明面单等附件已有且可以了的） or (status_code = 165 and 已出库 and 做整合发票的渠道) 不做整合发票的呢？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. 汇总上面的两组数据&lt;/div&gt;&lt;div&gt;&lt;strike&gt;1. 条件改= 185 || (150， 已出库，上线时间前(因为还存在整合发票的不需要做审核)) || (165 ,已出库)&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. 去除add attahchment_history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-937.51" y="1863" width="235" height="257" as="geometry" />
         </mxCell>
-        <mxCell id="7mLNIrUK4WttmI5ZQ052-97" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;auto_task add_tax_refund_attachment_push_histories&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;要推送的为&amp;nbsp;&lt;span&gt;比邮，法邮这种&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;where = (status_code = 150 且 没加入过的任务的) || status_code = 165&lt;div&gt;&lt;/div&gt;&lt;br&gt;3. 对获取的数据，按照条件过滤除数据（条件为 要上传附件的，是比邮的还要多个附件验证）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="1280" width="230" height="230" as="geometry" />
+        <mxCell id="7mLNIrUK4WttmI5ZQ052-97" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;auto_task add_tax_refund_attachment_push_histories&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;要推送的为&amp;nbsp;&lt;span&gt;比邮，法邮这种&lt;/span&gt;&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;1.&amp;nbsp;&lt;/strike&gt;&lt;/div&gt;&lt;strike&gt;where = (status_code = 150 且 没加入过的任务的) || status_code = 165&lt;/strike&gt;&lt;div&gt;&lt;/div&gt;&lt;strike&gt;&lt;br&gt;3. 对获取的数据，按照条件过滤除数据（条件为 要上传附件的，是比邮的还要多个附件验证）&lt;/strike&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;要推送的为&amp;nbsp;比邮，法邮这种&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;where &lt;br&gt;三种附件存在，&lt;br&gt;是要上传附件的渠道，&lt;br&gt;状态为 150， 165，&lt;br&gt;没加入过推送&lt;div&gt;&lt;/div&gt;&lt;br&gt;3. 对获取的数据，按照条件过滤除数据（条件为 比邮的还要多个附件验证）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-950" y="1280" width="230" height="370" as="geometry" />
         </mxCell>
         <mxCell id="7mLNIrUK4WttmI5ZQ052-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7mLNIrUK4WttmI5ZQ052-100" target="LrSTDgnJc3ZIewaenou--97" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -612,6 +612,9 @@
         </mxCell>
         <mxCell id="gNSOX75_fMVnCo2lNRig-10" value="&lt;h1&gt;&lt;span&gt;备注&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;所有情况都应该考虑两种流程的数据&lt;/div&gt;&lt;div&gt;1. 老数据 泛指 上线后 但是得新状态得数据&lt;/div&gt;&lt;div&gt;2. 新数据 走入新流程得数据&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;做整合发票的流程&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;不做整合发票的流程&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="-1169" y="70" width="340" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ1dxNjxnimCCwWiTcLS-7" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;set_tax_refund_start&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;处理方式&lt;/div&gt;&lt;div&gt;1. 150，165状态&lt;/div&gt;&lt;div&gt;2. 需要传的数据的渠道且数据传完 或者 不要传数据的且已出库&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. 去除add attahchment_history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-478.51" y="1863" width="235" height="257" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
