@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-30T02:23:57.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="dMeUfEWtvB9TaC3-25ft" version="13.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T07:28:30.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="HRbIt6--C416Le8cLXgl" version="13.1.11" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3376" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3821" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
         <mxCell id="LrSTDgnJc3ZIewaenou--73" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-597.51" y="404" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--78" value="155 退税信息已收集，等待退税公司审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--78" value="155 退税信息已收集，等待退税公司审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-717.97" y="700" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.044;entryY=0.726;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LrSTDgnJc3ZIewaenou--79" target="LrSTDgnJc3ZIewaenou--86" edge="1">
@@ -99,7 +99,7 @@
         <mxCell id="LrSTDgnJc3ZIewaenou--79" value="退税公司审核1" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="-668.01" y="830" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--84" value="160&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;退税信息&lt;/span&gt;审核&lt;br&gt;未通过" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--84" value="160&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;退税信息&lt;/span&gt;审核&lt;br&gt;未通过" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-501.14" y="845" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--85" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
             <mxPoint x="-277.51" y="765" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--86" value="客服根据提示收集信息&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 重新上传&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. 修改状态&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 插入一条待推送&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--86" value="客服根据提示收集信息&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 重新上传&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. 修改状态&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 插入一条待推送&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-297.51" y="770" width="257.51" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--93" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -128,6 +128,9 @@
               <mxPoint x="-605.51" y="1100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LZdjNznMdFvxWcHILvia-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LrSTDgnJc3ZIewaenou--94" target="LrSTDgnJc3ZIewaenou--79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LrSTDgnJc3ZIewaenou--94" value="接受到退税发票等相关信息&lt;br&gt;更新状态为165" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-694.64" y="990" width="183.25" height="110" as="geometry" />
@@ -325,7 +328,7 @@
         <mxCell id="7mLNIrUK4WttmI5ZQ052-100" value="三个附件（部分是四个）上传完成&lt;br&gt;出发插入自动任务" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-673.24" y="1310" width="140.46" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LrSTDgnJc3ZIewaenou--92" value="165 退税信息审核通过，等待上传面单" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="LrSTDgnJc3ZIewaenou--92" value="165 退税信息审核通过，等待上传面单" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-772.51" y="930" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JJt_7ZSJgDdLku0Frvaq-8" value="&lt;h1&gt;问题&lt;/h1&gt;&lt;div&gt;会不会有漏掉的&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -616,16 +619,16 @@
         <mxCell id="ZZ1dxNjxnimCCwWiTcLS-7" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;set_tax_refund_start&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;处理方式&lt;/div&gt;&lt;div&gt;1. 150，165， 185（新流程）状态 且 已出库&lt;/div&gt;&lt;div&gt;2. 需要传的数据的渠道且数据传完(包含两种 比邮 和 法邮) 或者 不要传数据&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. 去除add attahchment_history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-478.51" y="1863" width="235" height="257" as="geometry" />
         </mxCell>
-        <mxCell id="Tz3TrBJ6lqaX94smnhH6-7" value="SELECT `tr`.`id`,       `tr`.`customer_id`  FROM `adi_tax_refund` `tr`  INNER JOIN `adi_transfer` `t` ON `t`.`id`= `tr`.`transfer_id` WHERE `tr`.`status_code` IN(150, 165)   AND `t`.`status_id` IN(300, 320, 500, 220, 230, 231, 240, 241, 250, 251)   AND(((`t`.`channel_id` in(10, 35, 38)   AND `tr`.`delivery_letter_file_name`!= &quot;&quot;   AND `tr`.`delivery_evidence_file_name`!= &quot;&quot;   AND `tr`.`delivery_invoice_file_name`!= &quot;&quot;)    OR(`t`.`channel_id` in(11)   AND `tr`.`delivery_letter_file_name`!= &quot;&quot;   AND `tr`.`delivery_evidence_file_name`!= &quot;&quot;   AND `tr`.`delivery_invoice_file_name`!= &quot;&quot;   AND `tr`.`transport_evidence_file_name`!= &quot;&quot;))    OR(`t`.`channel_id` not in(10, 11, 35, 38)))" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tz3TrBJ6lqaX94smnhH6-7" value="SELECT `tr`.`id`,       `tr`.`customer_id`  FROM `adi_tax_refund` `tr`  INNER JOIN `adi_transfer` `t` ON `t`.`id`= `tr`.`transfer_id` WHERE `tr`.`status_code` IN(150, 165)   AND `t`.`status_id` IN(300, 320, 500, 220, 230, 231, 240, 241, 250, 251)   AND(((`t`.`channel_id` in(10, 35, 38)   AND `tr`.`delivery_letter_file_name`!= &quot;&quot;   AND `tr`.`delivery_evidence_file_name`!= &quot;&quot;   AND `tr`.`delivery_invoice_file_name`!= &quot;&quot;)    OR(`t`.`channel_id` in(11)   AND `tr`.`delivery_letter_file_name`!= &quot;&quot;   AND `tr`.`delivery_evidence_file_name`!= &quot;&quot;   AND `tr`.`delivery_invoice_file_name`!= &quot;&quot;   AND `tr`.`transport_evidence_file_name`!= &quot;&quot;))    OR(`t`.`channel_id` not in(10, 11, 35, 38)))" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-243.51" y="1863" width="550" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Tz3TrBJ6lqaX94smnhH6-8" value="SELECT `t`.`channel_id`, `tr`.`id` as `tax_id`, `tr`.`package_pid`, `tr`.`transfer_tid`, `tr`.`delivery_letter_file_name`, `tr`.`delivery_evidence_file_name`, `tr`.`delivery_invoice_file_name`, `tr`.`transport_evidence_file_name`FROM `adi_tax_refund` `tr`INNER JOIN `adi_transfer` `t` ON `t`.`id` = `tr`.`transfer_id`LEFT JOIN `adi_tax_refund_attachment_push_history` `traph` ON `tr`.`id` = `traph`.`tax_id`WHERE `traph`.`tax_id` IS NULLAND `tr`.`status_code` IN (150,165)AND   (   (`t`.`channel_id` in (10,35,38)AND `tr`.`delivery_letter_file_name` != &quot;&quot;AND `tr`.`delivery_evidence_file_name` != &quot;&quot;AND `tr`.`delivery_invoice_file_name` != &quot;&quot;  )OR    (`t`.`channel_id` in (11)AND `tr`.`delivery_letter_file_name` != &quot;&quot;AND `tr`.`delivery_evidence_file_name` != &quot;&quot;AND `tr`.`delivery_invoice_file_name` != &quot;&quot;AND `tr`.`transport_evidence_file_name` != &quot;&quot;  ) )" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tz3TrBJ6lqaX94smnhH6-8" value="SELECT `t`.`channel_id`, `tr`.`id` as `tax_id`, `tr`.`package_pid`, `tr`.`transfer_tid`, `tr`.`delivery_letter_file_name`, `tr`.`delivery_evidence_file_name`, `tr`.`delivery_invoice_file_name`, `tr`.`transport_evidence_file_name`FROM `adi_tax_refund` `tr`INNER JOIN `adi_transfer` `t` ON `t`.`id` = `tr`.`transfer_id`LEFT JOIN `adi_tax_refund_attachment_push_history` `traph` ON `tr`.`id` = `traph`.`tax_id`WHERE `traph`.`tax_id` IS NULLAND `tr`.`status_code` IN (150,165)AND   (   (`t`.`channel_id` in (10,35,38)AND `tr`.`delivery_letter_file_name` != &quot;&quot;AND `tr`.`delivery_evidence_file_name` != &quot;&quot;AND `tr`.`delivery_invoice_file_name` != &quot;&quot;  )OR    (`t`.`channel_id` in (11)AND `tr`.`delivery_letter_file_name` != &quot;&quot;AND `tr`.`delivery_evidence_file_name` != &quot;&quot;AND `tr`.`delivery_invoice_file_name` != &quot;&quot;AND `tr`.`transport_evidence_file_name` != &quot;&quot;  ) )" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1507.51" y="1280" width="550" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Tz3TrBJ6lqaX94smnhH6-9" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;auto_task add_tax_refund_attachment_push_histories&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;要推送的为&amp;nbsp;比邮，法邮这种&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;&lt;div&gt;状态为 150， 165，&lt;br&gt;&lt;/div&gt;&lt;div&gt;没加入过推送&lt;br&gt;&lt;/div&gt;&lt;br&gt;需要传的数据的渠道且数据传完(包含两种 比邮 和 法邮)&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Tz3TrBJ6lqaX94smnhH6-9" value="&lt;h1&gt;调整&lt;/h1&gt;&lt;div&gt;auto_task add_tax_refund_attachment_push_histories&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;要推送的为&amp;nbsp;比邮，法邮这种&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;&lt;div&gt;状态为 150， 165，&lt;br&gt;&lt;/div&gt;&lt;div&gt;没加入过推送&lt;br&gt;&lt;/div&gt;&lt;br&gt;需要传的数据的渠道且数据传完(包含两种 比邮 和 法邮)&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1753" y="1284" width="230" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="Tz3TrBJ6lqaX94smnhH6-10" value="SELECT `tr`.`id`, `tr`.`customer_id`FROM `adi_tax_refund` `tr`INNER JOIN `adi_transfer` `t` ON `t`.`id` = `tr`.`transfer_id`WHERE `tr`.`status_code` IN (150,165)AND `t`.`tracking_no` IS NOT NULLAND `tr`.`delivery_invoice_file_name` = &#39;&#39;AND `t`.`channel_id` IN (10,11,35,38)ORDER BY `tr`.`id` ASC" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tz3TrBJ6lqaX94smnhH6-10" value="SELECT `tr`.`id`, `tr`.`customer_id`FROM `adi_tax_refund` `tr`INNER JOIN `adi_transfer` `t` ON `t`.`id` = `tr`.`transfer_id`WHERE `tr`.`status_code` IN (150,165)AND `t`.`tracking_no` IS NOT NULLAND `tr`.`delivery_invoice_file_name` = &#39;&#39;AND `t`.`channel_id` IN (10,11,35,38)ORDER BY `tr`.`id` ASC" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-223.51" y="1241" width="373.51" height="109" as="geometry" />
         </mxCell>
       </root>
