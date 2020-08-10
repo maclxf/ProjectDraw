@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T10:32:24.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="8yJrFQgSiwvitIwCYMFY" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T03:40:28.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="pErFPQ_b1-Hdx35ePAy8" version="13.5.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2426" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
         <mxCell id="XLPa7UNQsNW_ClfHcTxk-1772" value="盈安达" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="36.25" y="2040" width="149" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1EkHpRH6-o7liIn3EBLU-1757" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1773" target="1EkHpRH6-o7liIn3EBLU-1756">
+        <mxCell id="1EkHpRH6-o7liIn3EBLU-1757" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XLPa7UNQsNW_ClfHcTxk-1773" target="1EkHpRH6-o7liIn3EBLU-1756" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLPa7UNQsNW_ClfHcTxk-1773" value="合众兴(青岛，大连，成都？)-申通&lt;br&gt;备案：&lt;br&gt;清关：合众兴&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. 导出清关数据&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. 子公司不同，清关数据要求不同&lt;br&gt;派送：申通（我们分配的派送资源）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. 单号：api 获取单号&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. 开单：api 开单&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. 面单：面单自行构造&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4. 针对发运国家不同可以提供不同的单号" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#7EA6E0;verticalAlign=top;" parent="1" vertex="1">
@@ -309,8 +309,26 @@
             <mxPoint x="159" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1EkHpRH6-o7liIn3EBLU-1756" value="现有调整，所有都摒弃了之前的存入单号池再开单的做法，新的接口都是用面单获取单号&lt;br&gt;&lt;br&gt;法国申通---&amp;gt;37,com在用&lt;br&gt;&lt;br&gt;合众兴圆通---&amp;gt; fr，edk在用" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#7EA6E0;fontStyle=0;align=left;verticalAlign=top;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;spacing=5;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="1EkHpRH6-o7liIn3EBLU-1756" value="现有调整，所有都摒弃了之前的存入单号池再开单的做法，新的接口都是用面单获取单号&lt;br&gt;&lt;br&gt;法国申通---&amp;gt;37,com在用&lt;br&gt;&lt;br&gt;合众兴圆通---&amp;gt; fr，edk在用" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#7EA6E0;fontStyle=0;align=left;verticalAlign=top;strokeColor=#E6E6E6;strokeWidth=3;fillColor=#f5f5f5;spacing=5;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="535.5" y="2410" width="382.25" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vQriaJEhYcKlcvYY_PU8-1756" value="上门取件" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="408" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQriaJEhYcKlcvYY_PU8-1758" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=classic;startFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#6c8ebf;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#dae8fc;endArrow=none;endFill=0;exitX=0.117;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1753">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331.9279999999999" y="378.0039999999999" as="sourcePoint" />
+            <mxPoint x="160" y="424.2763690705747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQriaJEhYcKlcvYY_PU8-1759" value="反向集货" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="500" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQriaJEhYcKlcvYY_PU8-1760" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=classic;startFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#6c8ebf;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#dae8fc;endArrow=none;endFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.994;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1753" target="vQriaJEhYcKlcvYY_PU8-1759">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357.24800000000005" y="380.0039999999999" as="sourcePoint" />
+            <mxPoint x="170.23" y="523.2763690705747" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
