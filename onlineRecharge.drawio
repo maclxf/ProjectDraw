@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T09:35:43.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="C6jNUQ39Fy99lE8ZkuzW" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T09:43:45.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="_Y3BrqyiNw4UZf9uiYfm" version="13.7.2" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -209,8 +209,8 @@
         <mxCell id="_W5oSKzTb8csaVYx0ehv-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_W5oSKzTb8csaVYx0ehv-8" vertex="1">
           <mxGeometry y="26" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="ybWYEZ71qziQnPrQ69iR-1" value="&lt;h1&gt;支付需求&lt;/h1&gt;&lt;p&gt;用户可以从PC端发起扫码支付、公众号端发起公众号支付，其中PC端还要分支付宝扫码和微信扫码&lt;/p&gt;&lt;p&gt;PC端发起扫码支付，提交数据（含有支付类型（它决定是支付宝还是微信）和金额）给到 第三方支付公司，支付公司返回扫码链接，前台提供展示的二维码，用户扫码完成支付&lt;br&gt;&lt;/p&gt;&lt;p&gt;公众号端发起公众号支付，提交数据（金额），获取用户的openid，然后一并给到支付公司，支付公司返回微信公众号支付链接&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="420" height="270" as="geometry" />
+        <mxCell id="ybWYEZ71qziQnPrQ69iR-1" value="&lt;h1&gt;支付需求&lt;/h1&gt;&lt;p&gt;用户可以从PC端发起扫码支付、公众号端发起公众号支付，其中PC端还要分支付宝扫码和微信扫码&lt;/p&gt;&lt;p&gt;PC端发起扫码支付，提交数据（含有支付类型（它决定是支付宝还是微信）和金额）给到 第三方支付公司，支付公司返回扫码链接，前台提供展示的二维码，用户扫码完成支付&lt;br&gt;&lt;/p&gt;&lt;p&gt;公众号端发起公众号支付，提交数据（金额），获取用户的openid，然后一并给到支付公司，支付公司返回微信公众号支付链接，微信端跳转完成支付&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;目前易欧的方式 是跳转获取openid但是后续其他支付公司可能就是调用接口获取了，这种方式如何体现呢？" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="460" height="290" as="geometry" />
         </mxCell>
         <mxCell id="l3-xLB6M_6CP8HN-9Dyd-5" value="paymenthandler&#xa;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="190" width="160" height="336" as="geometry" />
