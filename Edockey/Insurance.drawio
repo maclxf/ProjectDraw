@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T09:50:56.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tx-6f-W7HzX7izxAKbBE" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T10:05:41.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3t9YMVZe7ZiHfuiHMJTC" version="14.2.7" type="github">
   <diagram id="jZ9czFHUAiUfERh60Gt6" name="Page-1">
-    <mxGraphModel dx="1730" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="Dq7h3NawBX1uTz7kMnC7-35" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;&lt;span&gt;目前有保险的业务：&lt;/span&gt;&lt;/p&gt;&lt;p&gt;1，法邮，费率1%，保费上限15欧&lt;/p&gt;&lt;p&gt;2，BC线路（奶粉、红酒、药妆），加付1欧投保，最高赔付不超过500元&lt;/p&gt;&lt;p&gt;3，奢包、高价彩妆、鞋帽线路，费率5%，投保标的（申报价值）原则上不超过7000欧。丢失或被海关扣则全额赔偿。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;这些都是口头和同事确认的，之前好像没有一个汇总的成文文档，先供你参考。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;----&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;1. 目前可以提供的保险有哪些？是否还有补充的请收集&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. 这些保险是哪些渠道商提供的？&lt;/p&gt;&lt;p&gt;3. 这些保险的购买形式是？&lt;/p&gt;&lt;p&gt;4. 这些保险的理赔方式是？&lt;/p&gt;&lt;p&gt;5. 针对这些保险我们包装成我们的哪些保险产品？&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1250" y="40" width="190" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="qjYeB_D9SoArEUJoIaTn-1" value="&lt;h1&gt;&lt;span&gt;API端分析&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;当时不需要单独处理的，找到记录获取到保单金额&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="850" width="361" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
