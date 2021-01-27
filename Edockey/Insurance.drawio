@@ -1,92 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T06:40:57.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jUfpK9rtEoe1OFRJVlLb" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T09:50:56.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tx-6f-W7HzX7izxAKbBE" version="14.2.7" type="github">
   <diagram id="jZ9czFHUAiUfERh60Gt6" name="Page-1">
-    <mxGraphModel dx="2652" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-26" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="530" y="70" width="480" height="690" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-26" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="719" y="94" width="401" height="656" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-24" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="280" width="670" height="230" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-24" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="304" width="620" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dq7h3NawBX1uTz7kMnC7-20" target="Dq7h3NawBX1uTz7kMnC7-10">
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dq7h3NawBX1uTz7kMnC7-20" target="Dq7h3NawBX1uTz7kMnC7-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="450" as="targetPoint" />
-            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="879" y="474" as="targetPoint" />
+            <mxPoint x="589" y="394" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="610" y="360" />
+              <mxPoint x="799" y="384" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-6" value="&lt;h1&gt;创建订单&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;创建订单的地方出现&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="400" width="260" height="120" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-6" value="&lt;h1&gt;创建订单&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;创建订单的地方出现&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="424" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dq7h3NawBX1uTz7kMnC7-9" target="Dq7h3NawBX1uTz7kMnC7-13">
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dq7h3NawBX1uTz7kMnC7-9" target="Dq7h3NawBX1uTz7kMnC7-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="250" as="targetPoint" />
+            <mxPoint x="949" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-9" value="需要单独处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-9" value="需要单独处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="749" y="214" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dq7h3NawBX1uTz7kMnC7-10" target="Dq7h3NawBX1uTz7kMnC7-17">
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dq7h3NawBX1uTz7kMnC7-10" target="Dq7h3NawBX1uTz7kMnC7-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="500" as="targetPoint" />
+            <mxPoint x="919" y="524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-10" value="不需要单独处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-10" value="不需要单独处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="739" y="494" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-13" value="&lt;font color=&quot;#ff0000&quot;&gt;API或者其他流程？？&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="190" width="190" height="60" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-13" value="&lt;font color=&quot;#ff0000&quot;&gt;API或者其他流程？？&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="919" y="214" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-14" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;比如法邮是开单一并处理&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="530" width="190" height="120" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-14" value="&lt;h1&gt;不需要单独处理&lt;/h1&gt;&lt;p&gt;比如法邮是开单一并处理&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="729" y="554" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-15" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;豆沙包就是要另外推送&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#ff3333&quot;&gt;是不是还有需要手动购买？&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="90" width="190" height="120" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-15" value="&lt;h1&gt;需要单独处理&lt;/h1&gt;&lt;p&gt;豆沙包就是要另外推送&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#ff3333&quot;&gt;是不是还有需要手动购买？&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="749" y="114" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-17" value="跟随开单一并购买" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="470" width="190" height="60" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-17" value="跟随开单一并购买" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="919" y="494" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dq7h3NawBX1uTz7kMnC7-18" target="Dq7h3NawBX1uTz7kMnC7-20">
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dq7h3NawBX1uTz7kMnC7-18" target="Dq7h3NawBX1uTz7kMnC7-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="360" as="targetPoint" />
+            <mxPoint x="589" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-18" value="&lt;ol style=&quot;&quot;&gt;&lt;li&gt;保险1&lt;/li&gt;&lt;li&gt;保险2&lt;/li&gt;&lt;li&gt;保险3&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-18" value="&lt;ol style=&quot;&quot;&gt;&lt;li&gt;保险1&lt;/li&gt;&lt;li&gt;保险2&lt;/li&gt;&lt;li&gt;保险3&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="300" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.418;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Dq7h3NawBX1uTz7kMnC7-20" target="Dq7h3NawBX1uTz7kMnC7-9">
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.418;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Dq7h3NawBX1uTz7kMnC7-20" target="Dq7h3NawBX1uTz7kMnC7-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-20" value="形成保单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-20" value="形成保单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="529" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-21" value="&lt;h1&gt;需要了解&lt;/h1&gt;&lt;p&gt;1. 已知的保险购买形式&lt;/p&gt;&lt;p&gt;2. 已知的购买限制&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="570" y="620" width="190" height="120" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-21" value="&lt;h1&gt;需要了解&lt;/h1&gt;&lt;p&gt;1. 已知的保险购买形式&lt;/p&gt;&lt;p&gt;2. 已知的购买限制&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="859" y="640" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-22" value="各端实现" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="220" width="100" height="40" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-22" value="各端实现" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="290" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-27" value="API端实现" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="690" y="20" width="100" height="40" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-27" value="API端实现" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="879" y="44" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dq7h3NawBX1uTz7kMnC7-31" target="Dq7h3NawBX1uTz7kMnC7-18">
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dq7h3NawBX1uTz7kMnC7-31" target="Dq7h3NawBX1uTz7kMnC7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-30" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-31" value="设置保险产品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="49" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-31" value="设置保险产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-34" value="&lt;h1&gt;设置保险产品&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;可以提供哪些保险产品&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;保险展示的条件（和哪些条件有关系）&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="59" y="424" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-34" value="&lt;h1&gt;设置保险产品&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;可以提供哪些保险产品&lt;/li&gt;&lt;li&gt;保险展示的条件（和哪些条件有关系）&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="400" width="260" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Dq7h3NawBX1uTz7kMnC7-35" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;&lt;span&gt;目前有保险的业务：&lt;/span&gt;&lt;/p&gt;&lt;p&gt;1，法邮，费率1%，保费上限15欧&lt;/p&gt;&lt;p&gt;2，BC线路（奶粉、红酒、药妆），加付1欧投保，最高赔付不超过500元&lt;/p&gt;&lt;p&gt;3，奢包、高价彩妆、鞋帽线路，费率5%，投保标的（申报价值）原则上不超过7000欧。丢失或被海关扣则全额赔偿。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;这些都是口头和同事确认的，之前好像没有一个汇总的成文文档，先供你参考。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;----&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;1. 目前可以提供的保险有哪些？是否还有补充的请收集&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. 这些保险是哪些渠道商提供的？&lt;/p&gt;&lt;p&gt;3. 这些保险的购买形式是？&lt;/p&gt;&lt;p&gt;4. 这些保险的理赔方式是？&lt;/p&gt;&lt;p&gt;5. 针对这些保险我们包装成我们的哪些保险产品？&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="80" width="190" height="590" as="geometry" />
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-35" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;&lt;span&gt;目前有保险的业务：&lt;/span&gt;&lt;/p&gt;&lt;p&gt;1，法邮，费率1%，保费上限15欧&lt;/p&gt;&lt;p&gt;2，BC线路（奶粉、红酒、药妆），加付1欧投保，最高赔付不超过500元&lt;/p&gt;&lt;p&gt;3，奢包、高价彩妆、鞋帽线路，费率5%，投保标的（申报价值）原则上不超过7000欧。丢失或被海关扣则全额赔偿。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;这些都是口头和同事确认的，之前好像没有一个汇总的成文文档，先供你参考。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;----&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;span&gt;----&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;1. 目前可以提供的保险有哪些？是否还有补充的请收集&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. 这些保险是哪些渠道商提供的？&lt;/p&gt;&lt;p&gt;3. 这些保险的购买形式是？&lt;/p&gt;&lt;p&gt;4. 这些保险的理赔方式是？&lt;/p&gt;&lt;p&gt;5. 针对这些保险我们包装成我们的哪些保险产品？&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="40" width="190" height="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
