@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T06:32:28.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gkiN-gb2a-dBDJrzjrpr" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T06:33:20.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Vin4DAd8ZZM1t5h2haiF" version="14.1.1" type="github">
   <diagram id="jZ9czFHUAiUfERh60Gt6" name="Page-1">
     <mxGraphModel dx="2652" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="Dq7h3NawBX1uTz7kMnC7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dq7h3NawBX1uTz7kMnC7-31" target="Dq7h3NawBX1uTz7kMnC7-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dq7h3NawBX1uTz7kMnC7-30" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dq7h3NawBX1uTz7kMnC7-31" value="设置保险产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="330" width="120" height="60" as="geometry" />
