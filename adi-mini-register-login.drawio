@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T07:37:37.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="YESlRPQ3E_uxMzVmZRnc" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T07:45:36.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="f7XacQN5zzyKr90K7UC-" version="14.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2062" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,12 +74,12 @@
         <mxCell id="P1NTW07GZD20W-KyeUOk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1NTW07GZD20W-KyeUOk-13" target="P1NTW07GZD20W-KyeUOk-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="985" y="650" />
+              <mxPoint x="985" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-13" value="找到customer记录则进行关联" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="925" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="925" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1NTW07GZD20W-KyeUOk-19" target="P1NTW07GZD20W-KyeUOk-20">
           <mxGeometry relative="1" as="geometry" />
@@ -104,46 +104,48 @@
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="P1NTW07GZD20W-KyeUOk-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="650" as="sourcePoint" />
-            <mxPoint x="370" y="390" as="targetPoint" />
+            <mxPoint x="430" y="630" as="sourcePoint" />
+            <mxPoint x="370" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="650" />
-              <mxPoint x="470" y="650" />
+              <mxPoint x="470" y="630" />
+              <mxPoint x="470" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-20" value="要求输入邮箱，生成一条新的customer记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1255" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1NTW07GZD20W-KyeUOk-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1NTW07GZD20W-KyeUOk-4" target="P1NTW07GZD20W-KyeUOk-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P1NTW07GZD20W-KyeUOk-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1NTW07GZD20W-KyeUOk-4" target="P1NTW07GZD20W-KyeUOk-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-4" value="MEMBER" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1NTW07GZD20W-KyeUOk-20" target="P1NTW07GZD20W-KyeUOk-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1315" y="225" as="sourcePoint" />
             <mxPoint x="370" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1315" y="650" />
+              <mxPoint x="1315" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-33" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1NTW07GZD20W-KyeUOk-30" target="P1NTW07GZD20W-KyeUOk-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="880" />
-              <mxPoint x="370" y="880" />
+              <mxPoint x="370" y="860" />
+              <mxPoint x="370" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1NTW07GZD20W-KyeUOk-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="650" as="targetPoint" />
+            <mxPoint x="430" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="795" />
-              <mxPoint x="510" y="650" />
+              <mxPoint x="510" y="775" />
+              <mxPoint x="510" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,10 +155,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-30" value="个人信息是否完整" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="760" width="180" height="70" as="geometry" />
+          <mxGeometry x="280" y="740" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P1NTW07GZD20W-KyeUOk-32" value="FULL_MEMBER" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="915" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1NTW07GZD20W-KyeUOk-37" value="我希望用户不在这里输入邮箱而是滞后输入" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1265" y="450" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
