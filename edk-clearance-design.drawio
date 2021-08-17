@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T09:40:04.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="1CwvvWo2aecF5bgdDQiP" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T09:46:20.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="xiBxY6N4zCwLXHmYiGUN" version="14.9.3" type="github">
   <diagram id="BgCnuollFsHfJIWZqTE1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry y="60" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SG8iF_yUnEHL9pvQmII--5" value="ClearanceHandler" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="100" width="280" height="270" as="geometry" />
+          <mxGeometry x="750" y="100" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SG8iF_yUnEHL9pvQmII--6" value="+ $clearance: Clearance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG8iF_yUnEHL9pvQmII--5">
           <mxGeometry y="26" width="280" height="26" as="geometry" />
@@ -25,8 +25,8 @@
         <mxCell id="SG8iF_yUnEHL9pvQmII--7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="SG8iF_yUnEHL9pvQmII--5">
           <mxGeometry y="52" width="280" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="SG8iF_yUnEHL9pvQmII--8" value="+ exportClearance(params): &#xa;+ exportFinacel(params)&#xa;+ exportTrajectory(params)&#xa;&#xa;&#xa;&#xa;+ getClearanceCode()&#xa;+ setClearance(Clearance $clearance)&#xa;&#xa;+ addOutBatch($clearanceCode)&#xa;+ addOutBatchOrder($trackingNo)&#xa;+ setLadeBillCode(id, billCode)&#xa;+ getClearanceOutBatchList()&#xa;+ getClearanceOutBatchOrders($outbatchId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG8iF_yUnEHL9pvQmII--5">
-          <mxGeometry y="60" width="280" height="210" as="geometry" />
+        <mxCell id="SG8iF_yUnEHL9pvQmII--8" value="+ exportClearance(params): &#xa;+ exportFinacel(params)&#xa;+ exportStoTrajectory(params)&#xa;&#xa;&#xa;&#xa;+ getClearanceCode()&#xa;+ setClearance(Clearance $clearance)&#xa;&#xa;+ addOutBatch($clearanceCode)&#xa;+ addOutBatchOrder($outBatchId, $trackingNo)&#xa;+ deleteOutBatchOrder($outBatchId, $trackingNo)&#xa;+ setLadeBillCode($outBatchId, $billCode)&#xa;+ getClearanceOutBatchList()&#xa;+ getClearanceOutBatchOrders($outbatchId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG8iF_yUnEHL9pvQmII--5">
+          <mxGeometry y="60" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="SG8iF_yUnEHL9pvQmII--9" value="GzlhccClearance" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="290" width="160" height="160" as="geometry" />
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="SG8iF_yUnEHL9pvQmII--21" value="+ create($code):Clearance&#xa; " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG8iF_yUnEHL9pvQmII--17">
           <mxGeometry y="34" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SG8iF_yUnEHL9pvQmII--22" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;addOutBatchOrder&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;需要验证&lt;/p&gt;&lt;p&gt;&lt;span&gt;核准该包裹的收件人姓名是否重复，或者手机号是否重复，或者地址是&lt;/span&gt;&lt;span&gt;否重复，就是说，以上3个要素，只要有一个是重复的，系统就自动提示&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;如果出现之前已出库批次里的单号，即客户疑似重复使用面&lt;span&gt;单的情况，请在PDA上做下提示。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="290" width="190" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
