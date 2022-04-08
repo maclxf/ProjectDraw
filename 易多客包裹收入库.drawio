@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T08:38:24.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="EHjg7-y5e49ei7Ab9HW0" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T08:40:06.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="-Y0RqKD-VdJ9yXFk53dD" version="17.1.5" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2062" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -111,9 +111,6 @@
         <mxCell id="eouYJJpbQdIqnoSVehrK-27" value="各个渠道商负责对接人分别取走包裹" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-people-128.png" vertex="1" parent="1">
           <mxGeometry x="1610" y="196" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="eouYJJpbQdIqnoSVehrK-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-32" target="eouYJJpbQdIqnoSVehrK-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eouYJJpbQdIqnoSVehrK-32" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;渠道商1、2、3的包裹&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/woothemes/PNG/parcel.png" vertex="1" parent="1">
           <mxGeometry x="1880" y="30" width="128" height="128" as="geometry" />
         </mxCell>
@@ -133,49 +130,45 @@
         <mxCell id="eouYJJpbQdIqnoSVehrK-34" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;渠道商4、5、6的包裹&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/woothemes/PNG/parcel.png" vertex="1" parent="1">
           <mxGeometry x="1870" y="196" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="eouYJJpbQdIqnoSVehrK-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-37" target="eouYJJpbQdIqnoSVehrK-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eouYJJpbQdIqnoSVehrK-37" value="渠道商负责人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-black-1/64/37-128.png" vertex="1" parent="1">
-          <mxGeometry x="2072" y="30" width="128" height="128" as="geometry" />
+        <mxCell id="eouYJJpbQdIqnoSVehrK-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-32" target="eouYJJpbQdIqnoSVehrK-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="94" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eouYJJpbQdIqnoSVehrK-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-38" target="eouYJJpbQdIqnoSVehrK-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eouYJJpbQdIqnoSVehrK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-38" target="eouYJJpbQdIqnoSVehrK-47">
+        <mxCell id="eouYJJpbQdIqnoSVehrK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=classic;endFill=1;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-38" target="eouYJJpbQdIqnoSVehrK-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2340" y="220" as="sourcePoint" />
+            <mxPoint x="2150" y="220" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2340" y="210" />
-              <mxPoint x="2827" y="210" />
+              <mxPoint x="2150" y="210" />
+              <mxPoint x="2576" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eouYJJpbQdIqnoSVehrK-38" value="扫码" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/shopping-elements-6/64/08-Barcode_Scanner-128.png" vertex="1" parent="1">
-          <mxGeometry x="2270" y="30" width="128" height="128" as="geometry" />
+          <mxGeometry x="2080" y="30" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="eouYJJpbQdIqnoSVehrK-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-44">
+        <mxCell id="eouYJJpbQdIqnoSVehrK-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="eouYJJpbQdIqnoSVehrK-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2760" y="94" as="targetPoint" />
+            <mxPoint x="2472" y="94" as="targetPoint" />
+            <mxPoint x="2340" y="94" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eouYJJpbQdIqnoSVehrK-44" value="称重" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/web-development-and-studio/512/54_measure_caliper_calipers_physics_measurement_creative_skills_process-128.png" vertex="1" parent="1">
-          <mxGeometry x="2500" y="30" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="eouYJJpbQdIqnoSVehrK-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-47" target="eouYJJpbQdIqnoSVehrK-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2310" y="30" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="eouYJJpbQdIqnoSVehrK-47" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;等待出库&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/woothemes/PNG/parcel.png" vertex="1" parent="1">
-          <mxGeometry x="2770" y="30" width="128" height="128" as="geometry" />
+          <mxGeometry x="2512" y="30" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="eouYJJpbQdIqnoSVehrK-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-49" target="eouYJJpbQdIqnoSVehrK-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eouYJJpbQdIqnoSVehrK-49" value="渠道商负责人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-black-1/64/37-128.png" vertex="1" parent="1">
-          <mxGeometry x="2990" y="30" width="128" height="128" as="geometry" />
+        <mxCell id="eouYJJpbQdIqnoSVehrK-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="eouYJJpbQdIqnoSVehrK-47" target="eouYJJpbQdIqnoSVehrK-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2662" y="94" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eouYJJpbQdIqnoSVehrK-51" value="发货出库" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/42_hand_mail_paper_plane_plane_receive-128.png" vertex="1" parent="1">
-          <mxGeometry x="3190" y="30" width="128" height="128" as="geometry" />
+          <mxGeometry x="2734" y="30" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
