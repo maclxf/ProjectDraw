@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T08:08:11.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="TdA8oLfZYYtYGI_4OViF" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T08:08:51.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="bDaoZXWtRHYcVCSLUZYb" version="17.4.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="6679" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -459,7 +459,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V3PcDWiz4RxbsBljRPeV-1765" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; 武汉张总&lt;/div&gt;&lt;div&gt;清关：武汉张总&lt;/div&gt;&lt;div&gt;面单：内部使用的是自定义的面单&lt;/div&gt;&lt;div&gt;派送：包裹到国内后再由清关公司贴单（顺丰）&lt;/div&gt;&lt;div&gt;备注：高价值奢品多一些，有个入仓编码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-2338" y="3120" width="300" height="130" as="geometry" />
+          <mxGeometry x="-2338" y="3120" width="418" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
