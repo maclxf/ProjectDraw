@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T07:54:09.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="jm4cETaf9fVvLQFN7nb8" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T07:58:36.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="6Oa-hm68fK_RraGWMXyi" version="17.4.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="6679" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -434,6 +434,9 @@
         </mxCell>
         <mxCell id="V3PcDWiz4RxbsBljRPeV-1757" value="双流BBC&lt;br&gt;清关：双流&lt;br&gt;面单：内部使用的是自定义的面单&lt;br&gt;派送：包裹到国内后再由清关公司贴单（韵达）&lt;br&gt;备注：主要是红酒，有个特点就是一个包裹只能是一种商品（一个ean）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="-2310" y="2030" width="411.5" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="V3PcDWiz4RxbsBljRPeV-1758" value="武汉江夏&lt;br&gt;清关：武汉江夏&lt;br&gt;面单：申通面单，但是要求做了一个10*15的条码打印&lt;br&gt;派送：法国出单申通面单&lt;br&gt;备注：主要是红酒" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-2310" y="2170" width="411.5" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
